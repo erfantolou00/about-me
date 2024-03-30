@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erfan Tolou</h1>
-<h3 align="center">
+<h3 align="left">
 // A Front-End Journey💻
 
 const enthusiasm = "programming";
