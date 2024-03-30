@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Erfan Tolou</h1>
+<h1 align="center" color="red">Hi 👋, I'm Erfan Tolou</h1>
 <h3 align="left">
 // A Front-End Journey💻<br />
 
