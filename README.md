@@ -15,8 +15,6 @@ console.log(`Creating web magic, pixel by pixel.`);<br />
 <br />
 journey();✈<br />
 
-</h3>
-
 - 🔭 I’m currently learning [React]<br />
 
 - 📫 How to reach me **Erfantolou@gmail.com**<br />
