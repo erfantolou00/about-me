@@ -1,6 +1,6 @@
-<h1 align="center" color="red">Hi 👋, I'm Erfan Tolou</h1>
+<h1 align="center" color="red"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=4000&pause=500&background=56565625&center=true&vCenter=true&random=false&width=435&lines=Hi+!;I'm+Erfan+Tolou%2C;A+Front-End+and...+;React.Js+Developer." alt="Typing SVG" /></a></h1>
 <h3 align="left">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&pause=1000&background=56565625&center=true&vCenter=true&random=false&width=435&lines=Hi+!;I'm+Erfan+Tolou%2C;A+Front-End+and...+;React.Js+Developer." alt="Typing SVG" /></a>
+ 
 // A Front-End Journey💻<br />
 
 const enthusiasm = "programming";<br />
